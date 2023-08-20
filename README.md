@@ -1,3 +1,6 @@
 # Learza
-Website: learza.netlify.app
-Do You Have The Skills To Solve It?
+<h2>Website: <a href='learza.netlify.app'>Click Here</a> </h2>
+
+<p>Do You Have The Skills To Solve It?</p>
+
+<h1>Good Luck!</h1>
